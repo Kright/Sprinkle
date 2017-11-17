@@ -30,7 +30,3 @@ object BiggerExample extends App {
   println(s"solution complexity = ${table.gettingPasswordComplexity}")
   println(s"generating complexity = ${table.generatingTableComplexity(initials.size)}")
 }
-
-
-
-
